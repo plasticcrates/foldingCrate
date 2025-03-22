@@ -2,6 +2,10 @@
 
 ![FoldCrate Pro Logo](https://www.collapsible-crate.com/img/foldable-box-icon.png)
 
+## repo email
+plasticcrates.com@gmail.com
+
+
 A comprehensive web platform for a professional folding crates supplier, offering industrial-grade collapsible storage solutions.
 
 ## 🚀 Features
@@ -174,6 +178,9 @@ Industrial Park, NY 10001
 United States
 
 - Website: https://www.collapsible-crate.com/
+- github pages: https://plasticcrates.github.io/foldingCrate/
+- Blogger pages: https://foldingcrate.blogspot.com/
+- Surge pages: https://collapsible-crate.surge.sh
 
 ---
 
